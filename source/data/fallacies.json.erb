@@ -1,0 +1,11 @@
+[
+<% blog.articles.each do |fallacy| %>
+  {
+    'title':'<%= fallacy.title %>',
+    'category':'<%= fallacy.data.category %>',
+    'text':'<%= fallacy.data.text %>',
+    'example':'<%= fallacy.data.example %>',
+    'link':'https://fallacy.in<%= fallacy.url %>'
+  },
+<% end %>
+]
