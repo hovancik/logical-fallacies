@@ -1,0 +1,30 @@
+---
+layout: layout
+title: 'Logical fallacies'
+---
+<h1><%= category.capitalize %> fallacies</h1>
+<% if category == 'formal' %>
+  <p>
+    A formal fallacy is a pattern of reasoning rendered invalid by a flaw in
+    its logical structure that can neatly be expressed in a standard logic system.
+  </p>
+  <p class="italic">
+    An argument that is formally fallacious is always considered wrong.
+  </p>
+<% else %>
+  <p>
+    An informal fallacy occurs when the contents of an argument's stated premises
+    fail to adequately support its proposed conclusion.
+  </p>
+  <p class="italic">
+    An argument containing an informal fallacy might employ a valid logical form while nevertheless remaining rationally unpersuasive.
+  </p>
+<% end %>
+<% page_articles.each_with_index do |article, i| %>
+  <h2>
+    <%= link_to article.data.title, article.url %>
+  </h2>
+  <p>
+    <%= article.data.text %>
+  </p>
+<% end %>

@@ -1,0 +1,126 @@
+@charset 'utf-8';
+@import 'normalize';
+
+body {
+  background: #ECC561;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.6em;
+  text-align: center;
+}
+
+header {
+  font-size: 1.2em;
+  line-height: 1.5;
+  padding: 1em;
+  text-align: right;
+  //border-bottom: 1px solid white;
+  opacity: .8;
+  background: rgba(0, 0, 0, 0.1);
+
+  a {
+    color: #4c515f;
+  }
+
+  nav a {
+    padding-left: 1em;
+  }
+
+  .home {
+    font-weight: 700;
+    float: left;
+  }
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 2em;
+}
+
+.logo img {
+  margin: 2em auto;
+  opacity: .5;
+}
+
+h1,
+h2 {
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 400;
+  margin: 0 0 1em;
+}
+h1 {
+  font-size: 2.1em;
+  margin: 0 0 2em;
+}
+
+p {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: 300;
+  margin: 0 0 3em;
+
+  &.italic {
+    color: rgba(0, 0, 0, 0.7);
+    font-style: italic;
+    margin-top: -2rem;
+  }
+}
+
+
+.button {
+  border: 1px solid #fff;
+  border-radius: 3px;
+  color: #fff;
+  margin: auto 1em 0;
+  padding: .75em .7em;
+  text-decoration: none;
+  transition: color .1s linear;
+  &:hover {
+    background: rgba(0, 0, 0, .2);
+    color: #fff;
+    transition: all .15s linear;
+  }
+}
+
+
+a {
+  background-color: transparent;
+  color: #4280ca;
+  text-decoration: none;
+  transition: color .1s linear;
+}
+
+a:hover {
+  opacity: .75;
+}
+
+.bot {
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  margin-top: 6em;
+  border-radius: 1em;
+
+  .use {
+    padding: 1em 1em 2em;
+    position: relative;
+
+    .example {
+      font-family: monospace;
+      font-weight: 700;
+    }
+  }
+
+  a.more {
+    background-color: white;
+    border-radius: 5em;
+    color: #2a5b96;
+    font-size: .8em;
+    font-weight: 700;
+    height: 1.5em;
+    position: absolute;
+    right: .45em;
+    top: .45em;
+    width: 1.5em;
+  }
+}

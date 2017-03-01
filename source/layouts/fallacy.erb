@@ -1,0 +1,20 @@
+<% wrap_layout :layout do %>
+  <article>
+    <h1>
+      <%= current_page.title %>
+    </h1>
+    <p>
+      <%= current_page.data.text %>
+    </p>
+    <p class="italic">
+      <%= current_page.data.example %>
+    </p>
+    <%= yield %>
+    <div class="bot">
+      <p class="use">
+        Comment <span class="example">explain <%= current_page.title.downcase %></span> on Reddit to explain this fallacy.
+        <%= link_to '?', '/about.html', class: 'more'%>
+      </p>
+    </div>
+  </article>
+<% end %>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title><%= current_page.data.title + " | Fallacy.in" %></title>
+    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <%= stylesheet_link_tag :site %>
+    <%= javascript_include_tag :all %>
+  </head>
+  <body>
+    <header>
+      <%= link_to 'Fallacy.in', '/', class: 'home' %>
+      <nav>
+        <%= link_to 'About', '/about.html' %>
+        <%= link_to 'Contribute', '/contribute.html' %>
+      </nav>
+    </header>
+    <div class="wrapper">
+      <div class="logo">
+        <% link_to '/' do %>
+          <img src="/images/o-1935808_640.png" height="200" alt="">
+        <% end %>
+      </div>
+      <%= yield %>
+    </div>
+  </body>
+</html>
