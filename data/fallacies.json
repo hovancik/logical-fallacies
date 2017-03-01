@@ -1,37 +1,37 @@
 [
   {
-    'title':'Appeal to the stone',
-    'category':'informal',
-    'text':' Dismissing a statement as absurd without giving proof of its absurdity.',
-    'example':'Speaker A: Infectious diseases are caused by microbes.<br/>Speaker B: What a ridiculous idea!<br/>Speaker A: How so?<br/>Speaker B: It's obviously ridiculous.<br/><br/>Speaker B gives no evidence or reasoning, and when pressed, claims that Speaker A's statement is inherently absurd, thus applying the fallacy..',
-    'link':'https://fallacy.in/appeal-to-the-stone.html'
+    "title":"Appeal to the stone",
+    "category":"informal",
+    "text":" Dismissing a statement as absurd without giving proof of its absurdity.",
+    "example":"Speaker A: Infectious diseases are caused by microbes.<br/>Speaker B: What a ridiculous idea!<br/>Speaker A: How so?<br/>Speaker B: It's obviously ridiculous.<br/><br/>Speaker B gives no evidence or reasoning, and when pressed, claims that Speaker A's statement is inherently absurd, thus applying the fallacy..",
+    "link":"https://fallacy.in/appeal-to-the-stone.html"
   },
   {
-    'title':'Conjunction fallacy',
-    'category':'formal',
-    'text':'The conjunction fallacy is a formal fallacy that occurs when it is assumed that specific conditions are more probable than a single general one.',
-    'example':'Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.<br/><br/> Which is more probable?<br/> Linda is a bank teller.<br/>Linda is a bank teller and is active in the feminist movement.<br/><br/>The majority of those asked chose option 2. However, the probability of two events occurring together (in "conjunction") is always less than or equal to the probability of either one occurring alone',
-    'link':'https://fallacy.in/conjunction-fallacy.html'
+    "title":"Conjunction fallacy",
+    "category":"formal",
+    "text":"The conjunction fallacy is a formal fallacy that occurs when it is assumed that specific conditions are more probable than a single general one.",
+    "example":"Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.<br/><br/> Which is more probable?<br/> Linda is a bank teller.<br/>Linda is a bank teller and is active in the feminist movement.<br/><br/>The majority of those asked chose option 2. However, the probability of two events occurring together (in "conjunction") is always less than or equal to the probability of either one occurring alone",
+    "link":"https://fallacy.in/conjunction-fallacy.html"
   },
   {
-    'title':'Base rate fallacy',
-    'category':'formal',
-    'text':' If presented with related base rate information (i.e. generic, general information) and specific information (information only pertaining to a certain case), the mind tends to ignore the former and focus on the latter.',
-    'example':'Something can go wrong (premise). <br/>Therefore, something will go wrong (invalid conclusion).',
-    'link':'https://fallacy.in/base-rate-fallacy.html'
+    "title":"Base rate fallacy",
+    "category":"formal",
+    "text":" If presented with related base rate information (i.e. generic, general information) and specific information (information only pertaining to a certain case), the mind tends to ignore the former and focus on the latter.",
+    "example":"Something can go wrong (premise). <br/>Therefore, something will go wrong (invalid conclusion).",
+    "link":"https://fallacy.in/base-rate-fallacy.html"
   },
   {
-    'title':'Argument from fallacy',
-    'category':'formal',
-    'text':'Analyzing an argument and inferring that, since it contains a fallacy, its conclusion must be false.',
-    'example':'If P, then Q. <br/>P is a fallacious argument. <br/>Therefore, Q is false.',
-    'link':'https://fallacy.in/argument-from-fallacy.html'
+    "title":"Argument from fallacy",
+    "category":"formal",
+    "text":"Analyzing an argument and inferring that, since it contains a fallacy, its conclusion must be false.",
+    "example":"If P, then Q. <br/>P is a fallacious argument. <br/>Therefore, Q is false.",
+    "link":"https://fallacy.in/argument-from-fallacy.html"
   },
   {
-    'title':'Appeal to probability',
-    'category':'formal',
-    'text':'Taking something for granted because it would probably be the case (or might possibly be the case)',
-    'example':'Something can go wrong (premise). <br/>Therefore, something will go wrong (invalid conclusion).',
-    'link':'https://fallacy.in/appeal-to-probability.html'
+    "title":"Appeal to probability",
+    "category":"formal",
+    "text":"Taking something for granted because it would probably be the case (or might possibly be the case)",
+    "example":"Something can go wrong (premise). <br/>Therefore, something will go wrong (invalid conclusion).",
+    "link":"https://fallacy.in/appeal-to-probability.html"
   },
 ]
