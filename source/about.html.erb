@@ -15,6 +15,17 @@ title: About
   </p>
   <h2>How to use reddit bot?</h2>
   <p>
-
+    Right now, the bot is in testing. You can test it out at
+    <a href="https://www.reddit.com/r/fallacybottest/">/r/fallacybottest</a> by
+    making a comment <i>keyword fallacy name</i>, eg <i> fallacy in appeal to probability</i>.
+  </p>
+  <p>
+    Keywords are <i>what is</i>, <i>what's</i>, <i>explain</i> or <i>fallacy in</i>.
+  </p>
+  <p>
+    Fallacies can be: <br/>
+    <% blog.articles.each do |fallacy| %>
+      <i><%= fallacy.title.downcase %></i><br/>
+    <% end %>
   </p>
 </div>
