@@ -451,7 +451,7 @@ p {
   p.italic {
     color: rgba(0, 0, 0, 0.7);
     font-style: italic;
-    margin-top: -2rem; }
+    margin-top: -1rem; }
 
 .button {
   border: 1px solid #fff;
