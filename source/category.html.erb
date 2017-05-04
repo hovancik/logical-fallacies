@@ -20,7 +20,7 @@ title: 'Logical fallacies'
     An argument containing an informal fallacy might employ a valid logical form while nevertheless remaining rationally unpersuasive.
   </p>
 <% end %>
-<% page_articles.each_with_index do |article, i| %>
+<% page_articles.sort_by { |a| a.data.title }.each_with_index do |article, i| %>
   <h2>
     <%= link_to article.data.title, article.url %>
   </h2>
