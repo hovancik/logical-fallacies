@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: bundle exec middleman server
+    ports:
+      - "4567:4567"
+    volumes:
+      - .:/myapp
