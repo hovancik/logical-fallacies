@@ -5,4 +5,5 @@ text: "The fallacy of the undistributed middle (Lat. non distributio medii) is a
 example: "All students carry backpacks.<br/>My grandfather carries a backpack.<br/>Therefore, my grandfather is a student."
 category: formal
 date: 2013/10/13
+uid: 56da322c
 ---

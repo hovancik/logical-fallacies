@@ -5,4 +5,5 @@ text: "Argument to moderation (Latin: argumentum ad temperantiam)—also known a
 example: "An example of the argument to moderation would be to regard two opposed arguments - one person saying that slavery is always wrong, while another believes it to be legitimate - and conclude that the truth must therefore lie somewhere in between."
 category: informal
 date: 2013/10/13
+uid: 56da40d2
 ---

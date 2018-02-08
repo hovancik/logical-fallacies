@@ -5,4 +5,5 @@ text: "Circular reasoning is an infromal fallacy in which the proposition is sup
 example: "Circular reasoning is often of the form: 'A is true because B is true; B is true because A is true.' Circularity can be difficult to detect if it involves a longer chain of propositions. Academic Douglas Walton used the following example of a fallacious circular argument: <br>Wellington is in New Zealand.<br>Therefore, Wellington is in New Zealand."
 category: informal
 date: 2013/10/13
+uid: 56da4564
 ---

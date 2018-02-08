@@ -5,4 +5,5 @@ text: "Affirming the consequent, sometimes called converse error, fallacy of the
 example: 'If someone owns Fort Knox, then he is rich.<br/>Bill Gates is rich.<br/>Therefore, Bill Gates owns Fort Knox.<br/><br/>Owning Fort Knox is not the only way to be rich. Any number of other ways exist to be rich.<br/>'
 category: formal
 date: 2013/10/13
+uid: 56da24da
 ---

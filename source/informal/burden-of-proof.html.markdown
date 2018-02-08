@@ -5,4 +5,5 @@ text: "Burden of Proof is an informal fallacy in which the burden of proof is pl
 example: "Invisible teapot is, at this very moment, in orbit around the Sun between the Earth and Mars and that because no one can prove the assertion wrong it is therefore a valid one."
 category: informal
 date: 2013/10/13
+uid: 56da4334
 ---

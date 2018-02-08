@@ -5,4 +5,5 @@ text: "Argument from repetition, is an argument made repeatedly (possibly by dif
 example: "The sentence 'This topic has been discussed ad nauseam' signifies that the topic in question has been discussed extensively, and that those involved in the discussion have grown tired of it."
 category: informal
 date: 2013/10/13
+uid: 56da3c40
 ---

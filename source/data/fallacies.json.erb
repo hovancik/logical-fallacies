@@ -1,1 +1,1 @@
-<%= JSON.generate(blog.articles.map { |fallacy| {title: fallacy.title, category: fallacy.data.category, text: fallacy.data.text, example: fallacy.data.example, link: 'https://fallacy.in' + fallacy.url} }) %>
+<%= JSON.generate(blog.articles.map { |fallacy| {title: fallacy.title, category: fallacy.data.category, text: fallacy.data.text, example: fallacy.data.example, link: 'https://fallacy.in' + fallacy.url, uid: fallacy.data.uid} }) %>

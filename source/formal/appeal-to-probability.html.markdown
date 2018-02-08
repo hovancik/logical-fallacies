@@ -5,4 +5,5 @@ text: 'An appeal to probability (or appeal to possibility) is the logical fallac
 example: 'Something can go wrong (premise). <br/>Therefore, something will go wrong (invalid conclusion).'
 category: formal
 date: 2013/10/13
+uid: 56da25fc
 ---

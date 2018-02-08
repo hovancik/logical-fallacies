@@ -5,4 +5,5 @@ text: "Negative conclusion from affirmative premises is a syllogistic fallacy co
 example: "Premise: All colonels are officers.<br/>Premise: All officers are soldiers.<br/>Conclusion: Therefore, no colonels are soldiers."
 category: formal
 date: 2013/10/13
+uid: 56da38c6
 ---

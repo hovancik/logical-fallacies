@@ -7,4 +7,5 @@ Which is more probable?<br/>
 Linda is a bank teller.<br/>Linda is a bank teller and is active in the feminist movement.<br/><br/>The majority of those asked chose option 2. However, the probability of two events occurring together (in conjunction) is always less than or equal to the probability of either one occurring alone'
 category: formal
 date: 2013/10/13
+uid: 56da2976
 ---

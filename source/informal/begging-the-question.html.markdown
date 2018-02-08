@@ -5,4 +5,5 @@ text: "The informal fallacy of petitio principii, or 'begging the question' is c
 example: "Abortion is the unjustified killing of a human being and as such is murder. Murder is illegal. So abortion should be illegal."
 category: informal
 date: 2013/10/13
+uid: 56da421c
 ---

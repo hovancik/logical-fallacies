@@ -5,4 +5,5 @@ text: "Affirming a disjunct fallacy lies in concluding that one disjunct must be
 example: 'The following argument indicates the unsoundness of affirming a disjunct:<br/><br/>Max is a mammal or Max is a cat.<br/>Max is a mammal.<br/>Therefore, Max is not a cat.<br/><br/>This inference is unsound because all cats, by definition, are mammals.'
 category: formal
 date: 2013/10/13
+uid: 56da23a4
 ---
