@@ -452,6 +452,8 @@ p {
     color: rgba(0, 0, 0, 0.7);
     font-style: italic;
     margin-top: -1rem; }
+  p.small {
+    font-size: .9rem; }
 
 .button {
   border: 1px solid #fff;
