@@ -14,7 +14,6 @@ header {
   line-height: 1.5;
   padding: 1em;
   text-align: right;
-  //border-bottom: 1px solid white;
   opacity: .8;
   background: rgba(0, 0, 0, 0.1);
 
@@ -76,7 +75,8 @@ p {
   border: 1px solid #fff;
   border-radius: 3px;
   color: #fff;
-  margin: auto 1em 0;
+  display: inline-block;
+  margin: 1em 1em 0;
   padding: .75em .7em;
   text-decoration: none;
   transition: color .1s linear;
