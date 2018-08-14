@@ -453,7 +453,7 @@ p {
     font-style: italic;
     margin-top: -1rem; }
   p.small {
-    font-size: .9rem; }
+    font-size: 1em; }
 
 .button {
   border: 1px solid #fff;
