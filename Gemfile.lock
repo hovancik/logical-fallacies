@@ -87,7 +87,7 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     sass (3.4.23)
     servolux (0.12.0)
     temple (0.8.2)
@@ -106,7 +106,7 @@ DEPENDENCIES
   builder (~> 3.0)
   middleman (~> 4.1)
   middleman-blog
-  redcarpet (~> 3.3, >= 3.3.3)
+  redcarpet (~> 3.5)
   tzinfo-data
   wdm (~> 0.1.0)
 
